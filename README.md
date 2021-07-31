@@ -5,4 +5,4 @@ This project was written using Java programming language.
 Here is the demo of the program: 
 
 
-<img src="https://github.com/abrarr18/CS2114/blob/master/Hanoisolverdemo.gif" width=250><br>
+<img src="https://github.com/abrarr18/CS2114/blob/master/Hanoisolverdemo.gif" width=750><br>
