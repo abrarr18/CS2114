@@ -1,4 +1,4 @@
-# CS2114
+# CS2114 - Project 4
 This is the Tower of hanoi solver project for CS 2114 class. 
 This project was written using Java programming language. 
 
